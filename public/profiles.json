@@ -1,0 +1,26 @@
+[
+    {
+        "username": "naranjita",
+        "name": "Naranjita Golden",
+        "avatar": "https://cldup.com/-PdnSnafIA.png",
+        "bio": "Creative by Nature"
+    },
+    {
+        "username": "ljaramillo",
+        "name": "Lizet", 
+        "avatar": "https://cldup.com/dUZ-vYivIO.png", 
+        "bio": "Mastering React"
+    },
+    {
+        "username": "xiomy1311",
+        "name": "Xiomara", 
+        "avatar": "https://cldup.com/QzmdEftPDB.png", 
+        "bio": "Mastering React and Node"
+    }
+    {
+        "username": "camigomez35",
+        "name": "Camila", 
+        "avatar": "", 
+        "bio": ""
+    }
+]

@@ -1,0 +1,20 @@
+{
+  "name": "nodeschoolgirls",
+  "version": "1.0.0",
+  "description": "nodeschool",
+  "main": "server.js",
+  "scripts": {
+    "build": "browserify -t babelify client/app.js -o public/js/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NaranjitaGolden",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.3",
+    "xhr": "^2.1.0"
+  },
+  "devDependencies": {
+    "babelify": "^6.3.0",
+    "browserify": "^11.2.0"
+  }
+}
